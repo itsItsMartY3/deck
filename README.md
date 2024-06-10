@@ -29,11 +29,20 @@ Some text to show that the reference links can follow later.
 
 # freeCodeCamp
 
+
 [![freeCodeCamp Social Banner](cdn.freecodecamp.org/platform/universal/fcc_banner_new.png)](https://www.freecodecamp.org/)
 
 [freeCodeCamp.org](https://www.freecodecamp.org) is a friendly community where you can learn to code for free. It is run by a [donor-supported 501(c)(3) nonprofit](https://www.freecodecamp.org/donate) to help millions of busy adults transition into tech.
 
-Our full-stack web development and machine learning curriculum is completely free and self-paced. We have thousands of interactive coding challenges to help you expand your skills.
+
+
+
+;ii;i..ik.io. i]o
+\i\iu'u'
+
+
+
+eb development and machine learning curriculum is completely free and self-paced. We have thousands of interactive coding challenges to help you expand your skills.
 
 You can [read more about freeCodeCamp](https://freecodecamp.org/news/about).
 
